@@ -1963,9 +1963,9 @@
 			]
 		},
 		{
-			"name": "Toggle Words",
+			"name": "ToggleWords",
 			"details": "https://github.com/gordio/ToggleWords",
-			"previous_names": ["Toggle words"],
+			"previous_names": ["Toggle words", "Toggle Words"],
 			"releases": [
 				{
 					"sublime_text": "*",
